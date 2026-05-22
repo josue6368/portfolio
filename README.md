@@ -155,27 +155,5 @@ Each project demonstrates practical security work using real tools, documented w
 
 ---
 
-## Suggested Repository Structure
-
-```text
-cybersecurity-portfolio/
-│
-├── README.md
-└── assets/
-    ├── detection-engineering-sigma-wazuh-lab.png
-    ├── nessus-vulnerability-management-lab.png
-    ├── wazuh-siem-home-lab.png
-    ├── owasp-juice-shop-web-app-pentest.png
-    ├── gophish-phishing-simulation-lab.png
-    ├── password-cracking-policy-analysis-lab.png
-    ├── active-directory-attack-defense-lab.png
-    ├── malware-traffic-analysis-lab.png
-    ├── sysmon-splunk-threat-hunting-lab.png
-    └── coming-soon.png
-```
-
----
-
-## Notes
-
-This portfolio is continuously updated as I build new cybersecurity labs and document hands-on security work.
+>[!NOTE]
+>This portfolio is continuously updated as I build new cybersecurity labs and document hands-on security work.
