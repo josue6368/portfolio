@@ -1,8 +1,8 @@
 # portfolio
 
-Welcome to my cybersecurity portfolio. This repository highlights hands-on cybersecurity projects focused on detection engineering, SIEM analysis, vulnerability management, web application security, phishing simulation, password security, and threat hunting.
+Welcome to my cybersecurity portfolio. This repository highlights practical projects across detection engineering, SIEM analysis, vulnerability management, web application security, phishing simulation, password security, and threat hunting.
 
-Each project demonstrates hands-on cybersecurity work using real tools, documented workflows, screenshots, findings, and analysis across areas such as detection engineering, SIEM monitoring, vulnerability management, web application security, threat hunting, and security operations.
+Each project includes documented workflows, screenshots, findings, and analysis using real security tools to demonstrate technical skills across offensive, defensive, and security operations work.
 
 ---
 
