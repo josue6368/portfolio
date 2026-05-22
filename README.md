@@ -105,7 +105,7 @@ Each project demonstrates practical security work using real tools, documented w
     </td>
     <td width="50%" align="center">
       <!-- Add your next completed project here -->
-      <img width="1672" height="941" alt="ef1f6c94-e936-479a-b75b-4dae7e00a691" src="https://github.com/user-attachments/assets/a63e8c55-1f32-42ce-8118-a6cd29ea344d" />
+      <img width="1672" height="941" alt="ef1f6c94-e936-479a-b75b-4dae7e00a691" src="https://github.com/user-attachments/assets/2652f470-a7f3-4bd4-9ef7-864ca2a33417" />
       <h3>More Projects Coming Soon</h3>
       <p>
         Additional cybersecurity labs will be added as they are completed, documented, and published.
