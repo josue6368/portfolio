@@ -14,7 +14,11 @@ Each project includes documented workflows, screenshots, findings, and analysis 
       <a href="https://github.com/josue6368/detection-engineering-sigma-wazuh-lab">
         <img width="1536" height="1024" alt="0950a17c-ceda-4257-a439-48ed23db019e" src="https://github.com/user-attachments/assets/899cc1e6-40cb-4f7a-9d8b-4a6decdb275c" />
       </a>
-      <h3>Detection Engineering: Sigma + Wazuh Lab</h3>
+      <h3 align="center">
+  <a href="https://github.com/josue6368/detection-engineering-sigma-wazuh-lab">
+    Detection Engineering: Sigma + Wazuh Lab
+  </a>
+</h3>
       <p>
         Developed and tested detection logic using Sigma rules and Wazuh to identify suspicious activity, validate alerts, and map detections to real-world security use cases.
       </p>
@@ -23,7 +27,11 @@ Each project includes documented workflows, screenshots, findings, and analysis 
       <a href="https://github.com/josue6368/nessus-vulnerability-management-lab">
         <img width="1536" height="1024" alt="6616f85e-66c8-4f3e-b574-4d4042850058" src="https://github.com/user-attachments/assets/ad19fb62-7322-4be4-8910-7f35ddf035db" />
       </a>
-      <h3>Nessus Vulnerability Management Lab</h3>
+      <h3 align="center">
+  <a href="https://github.com/josue6368/nessus-vulnerability-management-lab">
+    Nessus Vulnerability Management Lab
+  </a>
+</h3>
       <p>
         Performed vulnerability scanning with Nessus, analyzed findings, prioritized risk, and documented remediation recommendations using a vulnerability management workflow.
       </p>
