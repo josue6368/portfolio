@@ -1,8 +1,13 @@
-# portfolio
+<img width="1536" height="634" alt="image" src="https://github.com/user-attachments/assets/d87eb616-127e-4073-b11a-c78ede6df533" /> <br/>
+
+
+
+
 
 Welcome to my cybersecurity portfolio. This repository highlights hands-on projects across detection engineering, SIEM analysis, threat hunting, network security monitoring, vulnerability management, web application security, phishing simulation, and password security.
 
-Each project includes documented workflows, screenshots, findings, and analysis using industry security tools such as Splunk, Zeek, Sysmon, Wireshark, Wazuh, and Kali Linux to demonstrate practical skills across offensive security, defensive operations, and security monitoring.
+Each project includes documented workflows, screenshots, findings, and analysis using industry security tools such as Splunk, Zeek, Sysmon, Wireshark, Wazuh, and Kali Linux to demonstrate practical skills across offensive security, defensive operations, and security monitoring. 
+
 
 ---
 
