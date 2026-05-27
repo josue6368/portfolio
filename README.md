@@ -1,8 +1,8 @@
 # portfolio
 
-Welcome to my cybersecurity portfolio. This repository highlights practical projects across detection engineering, SIEM analysis, vulnerability management, web application security, phishing simulation, password security, and threat hunting.
+Welcome to my cybersecurity portfolio. This repository highlights hands-on projects across detection engineering, SIEM analysis, threat hunting, network security monitoring, vulnerability management, web application security, phishing simulation, and password security.
 
-Each project includes documented workflows, screenshots, findings, and analysis using real security tools to demonstrate technical skills across offensive, defensive, and security operations work.
+Each project includes documented workflows, screenshots, findings, and analysis using industry security tools such as Splunk, Zeek, Sysmon, Wireshark, Wazuh, and Kali Linux to demonstrate practical skills across offensive security, defensive operations, and security monitoring.
 
 ---
 
@@ -104,6 +104,18 @@ Each project includes documented workflows, screenshots, findings, and analysis 
       </p>
     </td>
     <td width="50%" align="center">
+      <a href="https://github.com/josue6368/Zeek-Splunk-Network-Threat-Hunting-Lab">
+        <img width="1672" height="941" alt="ef1f6c94-e936-479a-b75b-4dae7e00a691" src="https://github.com/user-attachments/assets/62cd523c-2076-452b-88e8-796e06acc9dd" />
+      </a>
+      <h3>Zeek + Splunk Network Threat Hunting Lab</h3>
+      <p>
+        Built a Zeek + Splunk threat hunting lab to analyze malicious network traffic and investigate suspicious DNS, HTTP, and external IP activity.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
       <!-- Add your next completed project here -->
       <img width="1672" height="941" alt="ef1f6c94-e936-479a-b75b-4dae7e00a691" src="https://github.com/user-attachments/assets/2652f470-a7f3-4bd4-9ef7-864ca2a33417" />
       <h3>More Projects Coming Soon</h3>
@@ -112,27 +124,32 @@ Each project includes documented workflows, screenshots, findings, and analysis 
       </p>
     </td>
   </tr>
+  
+
+  
 </table>
 
 ---
 
 ## Skills Demonstrated
 
-- Detection engineering
-- SIEM deployment and alert analysis
-- Sigma rule creation and validation
-- Vulnerability scanning and remediation planning
-- Web application penetration testing
-- Phishing simulation and security awareness
-- Password auditing and policy analysis
-- Windows event log monitoring
-- Threat hunting with Splunk
-- Endpoint telemetry with Sysmon
-- Network traffic analysis with Wireshark
-- Active Directory security concepts
-- MITRE ATT&CK mapping
-- Incident response documentation
-- Cybersecurity reporting and portfolio documentation
+* Detection engineering
+* SIEM deployment and alert analysis
+* Sigma rule creation and validation
+* Threat hunting with Splunk
+* Endpoint telemetry analysis with Sysmon
+* Network telemetry analysis with Zeek
+* Network traffic analysis with Wireshark
+* Vulnerability scanning and remediation planning
+* Web application penetration testing
+* Phishing simulation and security awareness
+* Password auditing and policy analysis
+* Windows event log monitoring
+* DNS and HTTP traffic analysis
+* Active Directory security concepts
+* MITRE ATT&CK mapping
+* Incident response documentation
+* Cybersecurity reporting and portfolio documentation
 
 ---
 
@@ -143,6 +160,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
   <img src="https://img.shields.io/badge/Sigma-222222?style=for-the-badge&logoColor=white" alt="Sigma">
   <img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
+  <img src="https://img.shields.io/badge/Zeek-1B1F23?style=for-the-badge&logoColor=white" alt="Zeek">
   <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/GoPhish-2C3E50?style=for-the-badge&logoColor=white" alt="GoPhish">
@@ -152,6 +170,8 @@ Each project includes documented workflows, screenshots, findings, and analysis 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
 </p>
+
+
 
 ---
 
