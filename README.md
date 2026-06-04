@@ -17,7 +17,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/detection-engineering-sigma-wazuh-lab">
-        <img width="1536" height="1024" alt="0950a17c-ceda-4257-a439-48ed23db019e" src="https://github.com/user-attachments/assets/899cc1e6-40cb-4f7a-9d8b-4a6decdb275c" />
+        <img width="100%" alt="Detection Engineering Sigma Wazuh Lab" src="https://github.com/user-attachments/assets/899cc1e6-40cb-4f7a-9d8b-4a6decdb275c" />
       </a>
       <h3>Detection Engineering: Sigma + Wazuh Lab</h3>
       <p>
@@ -26,7 +26,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/nessus-vulnerability-management-lab">
-        <img width="1536" height="1024" alt="6616f85e-66c8-4f3e-b574-4d4042850058" src="https://github.com/user-attachments/assets/ad19fb62-7322-4be4-8910-7f35ddf035db" />
+        <img width="100%" alt="Nessus Vulnerability Management Lab" src="https://github.com/user-attachments/assets/ad19fb62-7322-4be4-8910-7f35ddf035db" />
       </a>
       <h3>Nessus Vulnerability Management Lab</h3>
       <p>
@@ -38,7 +38,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/Wazuh-SIEM-Home-Lab-Mini-SOC-Environment">
-        <img width="1536" height="1024" alt="afe1e2e9-d963-450f-a401-ee35f7da5654" src="https://github.com/user-attachments/assets/3560e9ab-868b-4580-81c6-0eef086eb4d7" />
+        <img width="100%" alt="Wazuh SIEM Home Lab" src="https://github.com/user-attachments/assets/3560e9ab-868b-4580-81c6-0eef086eb4d7" />
       </a>
       <h3>Wazuh SIEM Home Lab: Mini SOC Environment</h3>
       <p>
@@ -47,7 +47,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/owasp-juice-shop-web-app-pentest">
-        <img width="1536" height="1024" alt="621445e9-02ac-409b-a180-72f37263cf48" src="https://github.com/user-attachments/assets/ea10a6f0-6e70-4837-8c21-3b0c9ec7245c" />
+        <img width="100%" alt="OWASP Juice Shop Web App Pentest" src="https://github.com/user-attachments/assets/ea10a6f0-6e70-4837-8c21-3b0c9ec7245c" />
       </a>
       <h3>OWASP Juice Shop Web App Pentest</h3>
       <p>
@@ -59,7 +59,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/gophish-phishing-simulation-lab">
-        <img width="1536" height="1024" alt="14a75651-9549-4a5d-988b-c7cf81892c35" src="https://github.com/user-attachments/assets/b15ce12b-cb51-4bf5-addc-a2bb559bb846" />
+        <img width="100%" alt="GoPhish Phishing Simulation Lab" src="https://github.com/user-attachments/assets/b15ce12b-cb51-4bf5-addc-a2bb559bb846" />
       </a>
       <h3>GoPhish Phishing Simulation Lab</h3>
       <p>
@@ -68,7 +68,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/password-cracking-policy-analysis-lab">
-        <img width="1536" height="1024" alt="c71c5a51-58f0-44db-9e26-c53fa4f66bbc" src="https://github.com/user-attachments/assets/b8c9f911-37ee-4103-b087-19cfd8689912" />
+        <img width="100%" alt="Password Cracking Policy Analysis Lab" src="https://github.com/user-attachments/assets/b8c9f911-37ee-4103-b087-19cfd8689912" />
       </a>
       <h3>Password Cracking & Policy Analysis Lab</h3>
       <p>
@@ -80,7 +80,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/active-directory-attack-defense-lab">
-        <img width="1672" height="941" alt="638f61b0-86c7-4878-951b-ac6ab74dd8a0" src="https://github.com/user-attachments/assets/3a2e6b7b-59cf-4857-a7f9-6cd778ed3489" />
+        <img width="100%" alt="Active Directory Attack and Defense Lab" src="https://github.com/user-attachments/assets/3a2e6b7b-59cf-4857-a7f9-6cd778ed3489" />
       </a>
       <h3>Active Directory Attack & Defense Lab</h3>
       <p>
@@ -89,7 +89,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/malware-traffic-analysis-lab">
-        <img width="1731" height="909" alt="277278e0-0fc8-4861-9617-6252d199acda" src="https://github.com/user-attachments/assets/35472202-16f5-49bc-ad0c-ff06e0ce28d3" />
+        <img width="100%" alt="Malware Traffic Analysis Lab" src="https://github.com/user-attachments/assets/35472202-16f5-49bc-ad0c-ff06e0ce28d3" />
       </a>
       <h3>Malware Traffic Analysis Lab</h3>
       <p>
@@ -101,7 +101,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/sysmon-splunk-threat-hunting-lab">
-        <img width="1672" height="941" alt="d0c56d23-2d62-43e3-9ce7-3b10392552b2" src="https://github.com/user-attachments/assets/dc50fdb3-64bd-4be0-8664-a19ecd5672eb" />
+        <img width="100%" alt="Sysmon Splunk Threat Hunting Lab" src="https://github.com/user-attachments/assets/dc50fdb3-64bd-4be0-8664-a19ecd5672eb" />
       </a>
       <h3>Sysmon + Splunk Threat Hunting Lab</h3>
       <p>
@@ -110,7 +110,7 @@ Each project includes documented workflows, screenshots, findings, and analysis 
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/josue6368/Zeek-Splunk-Network-Threat-Hunting-Lab">
-        <img width="1672" height="941" alt="ef1f6c94-e936-479a-b75b-4dae7e00a691" src="https://github.com/user-attachments/assets/62cd523c-2076-452b-88e8-796e06acc9dd" />
+        <img width="100%" alt="Zeek Splunk Network Threat Hunting Lab" src="https://github.com/user-attachments/assets/62cd523c-2076-452b-88e8-796e06acc9dd" />
       </a>
       <h3>Zeek + Splunk Network Threat Hunting Lab</h3>
       <p>
@@ -118,29 +118,27 @@ Each project includes documented workflows, screenshots, findings, and analysis 
       </p>
     </td>
   </tr>
- <!-- Add next completed project here -->
-    <tr>
+
+  <!-- Add next completed project here -->
+  <tr>
     <td width="50%" align="center">  
       <a href="https://github.com/josue6368/windows-privilege-escalation-lab">
-        <img width="1672" height="941" alt="3b701238-7edd-4724-8f2c-daebc8301ffa" src="https://github.com/user-attachments/assets/f5f2adbe-fa6d-4401-a17a-d8e536e0f1e5" />
+        <img width="100%" alt="Windows Privilege Escalation Lab" src="https://github.com/user-attachments/assets/f5f2adbe-fa6d-4401-a17a-d8e536e0f1e5" />
       </a>
       <h3>Windows Privilege Escalation & Detection Lab</h3>
       <p>
         Performed Windows privilege escalation analysis using PowerUp, validated vulnerable service configurations, and investigated activity through Sysmon and Splunk telemetry.
       </p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" align="center">  
-      <img width="1672" height="941" alt="ef1f6c94-e936-479a-b75b-4dae7e00a691" src="https://github.com/user-attachments/assets/2652f470-a7f3-4bd4-9ef7-864ca2a33417" />
+      <img width="100%" alt="Coming Soon" src="https://github.com/user-attachments/assets/2652f470-a7f3-4bd4-9ef7-864ca2a33417" />
       <h3>More Projects Coming Soon</h3>
       <p>
         Additional cybersecurity labs will be added as they are completed, documented, and published.
       </p>
     </td>
   </tr>
-  
+</table>
 
   
 </table>
