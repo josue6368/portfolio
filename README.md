@@ -118,10 +118,21 @@ Each project includes documented workflows, screenshots, findings, and analysis 
       </p>
     </td>
   </tr>
-
+ <!-- Add next completed project here -->
+    <tr>
+    <td width="50%" align="center">  
+      <a href="https://github.com/josue6368/windows-privilege-escalation-lab">
+        <img width="1672" height="941" alt="3b701238-7edd-4724-8f2c-daebc8301ffa" src="https://github.com/user-attachments/assets/f5f2adbe-fa6d-4401-a17a-d8e536e0f1e5" />
+      </a>
+      <h3>Windows Privilege Escalation & Detection Lab</h3>
+      <p>
+        Performed Windows privilege escalation analysis using PowerUp, validated vulnerable service configurations, and investigated activity through Sysmon and Splunk telemetry.
+      </p>
+    </td>
+  </tr>
+  
   <tr>
-    <td width="50%" align="center">
-      <!-- Add your next completed project here -->
+    <td width="50%" align="center">  
       <img width="1672" height="941" alt="ef1f6c94-e936-479a-b75b-4dae7e00a691" src="https://github.com/user-attachments/assets/2652f470-a7f3-4bd4-9ef7-864ca2a33417" />
       <h3>More Projects Coming Soon</h3>
       <p>
